@@ -1,22 +1,5 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-	<title>WEB PROFILE PEMROGRAMAN WEB</title> 
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<div>
-            <a href="BIODATA.html"> Home </a>
-            <a href="kontak.html"> About </a>
-        </div>
-
-</head>
-<body align="center">
-	<h1>WEB PROFILE</h1>
-	<h2>Samuel Wijaya</h2>
-	<h2>Teknik Informatika</h2>
-	<p style="color:blue">Pemrograman Web</p>
-
-
-
 	<table border="1" cellspacing="0" cellpadding="5" align="center" width="600">
 		<tr align="center" bgcolor="#00FFFF">
 			<td>DATA</td>
