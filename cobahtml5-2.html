@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>Bejalar HTML5</title>
+    <script type="text/javascript">
+        function draw(){
+            var canvas = document.getElementById('belajar');
+            if(canvas.getContext){
+                var ctx = canvas.getContext('2d');
+                ctx.fillstyle = "rgb(40,0,0)";
+                ctx.fillRect (90, 20, 60,60);
+            }
+        }
+    </script>
+    <style type="text/css">
+        canvas{
+            border: 2px solid red;
+            background-color:red;
+        }
+    </style>
+</head>
+<body onload="draw();">
+    <canvas id="belajar" width="175" height="175"></canvas>
+    <a href="cobahtml5-3.html">coba html 5-3</a><br>
+</body>
+</html>
