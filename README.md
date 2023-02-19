@@ -37,6 +37,5 @@
 		</tr>
 	</table>
     <br>
-	<img src="maguire.gif" width="300 "align="center">
 </body>
 </html>
